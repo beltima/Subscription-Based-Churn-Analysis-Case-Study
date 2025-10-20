@@ -1,4 +1,5 @@
 # Subscription-Based Churn Analysis - VPN Service
+To see my full analysis, please view the [Technical Report on Notion](https://www.notion.so/Technical-Report-25d55584eb6080419723f9d34ff44c85) and the [Executive Summary](https://www.notion.so/Executive-Summary-25d55584eb608024b52ad8b10ea84998).
 
 ## Overview
 This technical test provides 2 years of fictitious data from Quark VPN, a fictional VPN provider. 
