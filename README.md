@@ -1,4 +1,4 @@
-# Data Analysis Test
+# Subscription-Based Churn Analysis - VPN Service
 
 ## Overview
 This technical test provides 2 years of fictitious data from Quark VPN, a fictional VPN provider. 
